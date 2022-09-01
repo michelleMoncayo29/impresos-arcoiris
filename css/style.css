@@ -1644,7 +1644,7 @@ input[type="radio"] .styled:checked+label::after {
 
 
 .buy {
-	background: #ffc221;
+	background: #0B9ED9;
 	padding: 7px 41px !important;
 	margin-top: 18px;
 	border-radius: 5px;
@@ -2472,4 +2472,8 @@ ul.lik li a:hover {
 
 .opacity-0 {
 	opacity: 0;
+}
+
+.tc-blue {
+	color: #0B9ED9;
 }
