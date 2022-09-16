@@ -2494,10 +2494,19 @@ ul.lik li a:hover {
 	bottom: 25px;
 }
 
+.bottom-100{
+	bottom: 100px;
+}
+
 .fs-25 {
 	font-size: 20px !important;
+	line-height: 25px !important;
 }
 
 .fs-16 {
 	font-size: 16px !important;
+}
+
+.lh-30{
+	line-height: 30px !important;
 }
