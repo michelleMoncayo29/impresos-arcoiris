@@ -2494,7 +2494,7 @@ ul.lik li a:hover {
 	bottom: 25px;
 }
 
-.bottom-100{
+.bottom-100 {
 	bottom: 100px;
 }
 
@@ -2507,6 +2507,10 @@ ul.lik li a:hover {
 	font-size: 16px !important;
 }
 
-.lh-30{
+.lh-30 {
 	line-height: 30px !important;
+}
+
+.white-space-wrap {
+	white-space: unset !important;
 }
