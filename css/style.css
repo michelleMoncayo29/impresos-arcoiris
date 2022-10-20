@@ -2482,6 +2482,10 @@ ul.lik li a:hover {
 	width: 60px;
 }
 
+.h-0 {
+	height: 0px !important;
+}
+
 .h-60p {
 	height: 60px;
 }
