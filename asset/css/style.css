@@ -2523,3 +2523,35 @@ ul.lik li a:hover {
 .white-space-wrap {
 	white-space: unset !important;
 }
+
+.img-footer-banner{
+	background-image: url(../images/banner-arco-chill-out.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.h-responsive-img{
+	height: 170px !important;
+}
+
+@media screen and (min-width: 576px) {
+	.h-responsive-img{
+        height: 240px !important;
+    }
+}
+@media screen and (min-width: 768px) {
+	.h-responsive-img{
+        height: 350px !important;
+    }
+}
+@media screen and (min-width: 992px) {
+	.h-responsive-img{
+        height: 415px !important;
+    }
+}
+@media screen and (min-width: 1200px) {
+	.h-responsive-img{
+        height: 700px !important;
+    }
+} 
