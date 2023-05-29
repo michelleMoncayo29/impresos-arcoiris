@@ -2548,6 +2548,13 @@ ul.lik li a:hover {
 	.h-responsive-img{
         height: 350px !important;
     }
+	
+	.btn-lg{
+		padding: 0.5rem 1rem;
+ 	 	font-size: 1.25rem;
+  		line-height: 1.5;
+  		border-radius: 0.3rem;
+	}
 }
 @media screen and (min-width: 992px) {
 	.h-responsive-img{
