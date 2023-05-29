@@ -2494,6 +2494,10 @@ ul.lik li a:hover {
 	right: 18px;
 }
 
+.right-100 {
+	right: 100px;
+}
+
 .bottom-25 {
 	bottom: 25px;
 }
@@ -2552,6 +2556,6 @@ ul.lik li a:hover {
 }
 @media screen and (min-width: 1200px) {
 	.h-responsive-img{
-        height: 600px !important;
+        height: 650px !important;
     }
 } 
